@@ -1,0 +1,10 @@
+C:\Users\guto2\OneDrive\Documentos\GitHub\TrocaMe\SuperCore.NetCore\bin\Release\netcoreapp3.1\SuperCore.NetCore.deps.json
+C:\Users\guto2\OneDrive\Documentos\GitHub\TrocaMe\SuperCore.NetCore\bin\Release\netcoreapp3.1\SuperCore.NetCore.dll
+C:\Users\guto2\OneDrive\Documentos\GitHub\TrocaMe\SuperCore.NetCore\bin\Release\netcoreapp3.1\SuperCore.NetCore.pdb
+C:\Users\guto2\OneDrive\Documentos\GitHub\TrocaMe\SuperCore.NetCore\obj\Release\netcoreapp3.1\SuperCore.NetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guto2\OneDrive\Documentos\GitHub\TrocaMe\SuperCore.NetCore\obj\Release\netcoreapp3.1\SuperCore.NetCore.AssemblyInfoInputs.cache
+C:\Users\guto2\OneDrive\Documentos\GitHub\TrocaMe\SuperCore.NetCore\obj\Release\netcoreapp3.1\SuperCore.NetCore.AssemblyInfo.cs
+C:\Users\guto2\OneDrive\Documentos\GitHub\TrocaMe\SuperCore.NetCore\obj\Release\netcoreapp3.1\SuperCore.NetCore.csproj.CoreCompileInputs.cache
+C:\Users\guto2\OneDrive\Documentos\GitHub\TrocaMe\SuperCore.NetCore\obj\Release\netcoreapp3.1\SuperCore.NetCore.dll
+C:\Users\guto2\OneDrive\Documentos\GitHub\TrocaMe\SuperCore.NetCore\obj\Release\netcoreapp3.1\SuperCore.NetCore.pdb
+C:\Users\guto2\OneDrive\Documentos\GitHub\TrocaMe\SuperCore.NetCore\obj\Release\netcoreapp3.1\SuperCore.NetCore.csproj.AssemblyReference.cache

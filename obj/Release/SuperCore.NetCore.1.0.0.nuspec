@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SuperCore.NetCore</id>
+    <version>1.0.0</version>
+    <authors>SuperCore.NetCore</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Microsoft.AspNetCore" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="System.Drawing.Common" version="7.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\guto2\OneDrive\Documentos\GitHub\TrocaMe\SuperCore.NetCore\bin\Release\netcoreapp3.1\SuperCore.NetCore.dll" target="lib\netcoreapp3.1\SuperCore.NetCore.dll" />
+  </files>
+</package>
